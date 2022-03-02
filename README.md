@@ -12,4 +12,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/?username=imrk51&&show_icons=true&theme=algolia)](https://github.com/imrk51/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/?username=imrk51&&show_icons=true&theme=algolia">
