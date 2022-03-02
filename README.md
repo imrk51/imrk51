@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**imrk51/imrk51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Amazon AWS
 - 🌱 I’m currently learning CISSP
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/rahkumar202/
 
 - ⚡ Fun fact: ...
--->
+
