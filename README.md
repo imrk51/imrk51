@@ -10,3 +10,4 @@
 
 - ⚡ Fun fact: ...
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imrk51&repo=github-readme-stats)](https://github.com/imrk51/github-readme-stats)
